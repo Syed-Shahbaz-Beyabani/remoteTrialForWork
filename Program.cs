@@ -13,6 +13,7 @@ namespace myGitApp
             Console.WriteLine("my git practice work");
             count();
             Console.WriteLine("ready to commit");
+            Console.WriteLine("second timeCommit");
         }
         static void count()
         {
