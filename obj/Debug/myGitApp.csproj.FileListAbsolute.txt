@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\myGitApp\myGitApp\bin\Debug\myGitApp.exe.config
+C:\Users\Admin\source\repos\myGitApp\myGitApp\bin\Debug\myGitApp.exe
+C:\Users\Admin\source\repos\myGitApp\myGitApp\bin\Debug\myGitApp.pdb
+C:\Users\Admin\source\repos\myGitApp\myGitApp\obj\Debug\myGitApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\myGitApp\myGitApp\obj\Debug\myGitApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\myGitApp\myGitApp\obj\Debug\myGitApp.exe
+C:\Users\Admin\source\repos\myGitApp\myGitApp\obj\Debug\myGitApp.pdb
